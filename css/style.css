@@ -28,7 +28,7 @@ img{
 /*Superinfo*/ 
 
 .superinfo-bg{
-    background: #122ab2;
+    background: ##5274D9;
     color: white;
 }
 
@@ -86,7 +86,7 @@ img{
 }
 
 .menu-nav a:hover{
-    color: #122ab2;
+    color: #5274D9;
 }
 
 /*Introducao*/
@@ -390,5 +390,5 @@ img{
     flex: 1;
     text-align: center;
     font-size: 2.25em;
-    color: #122ab2;
+    color: #5274D9;
 }
